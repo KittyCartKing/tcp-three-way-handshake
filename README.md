@@ -140,10 +140,10 @@ Three-way handshake complete.
 Client is now connected to server.
 ```
 ### Snapshot of ouput on Windows machine
-```
+
 <img width="493" height="111" alt="Server_Client output" src="https://github.com/user-attachments/assets/62845f4f-69d8-4125-9952-6da68d0129e0" />
 
-```
+
 
 
 ### 📊 What Just Happened?
@@ -321,4 +321,5 @@ Client/server code adapted from [@dawnl3ss](https://github.com/dawnl3ss). Thanks
 Making progress everyday.
 
 </p>
+
 
