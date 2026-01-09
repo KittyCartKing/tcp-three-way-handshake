@@ -242,9 +242,9 @@ tcp-three-way-handshake/
 
 ## ⚠️ Important Notes
 
-> **🪟 Windows Users**
+> **🪟 Linux Users**
 >
-> Change `os.system("clear")` to `os.system("cls")` in both files.
+> Change `os.system("cls")` to `os.system("clear")` in both files.
 
 > **🔌 Port Already in Use?**
 >
@@ -313,4 +313,5 @@ Client/server code adapted from [@dawnl3ss](https://github.com/dawnl3ss). Thanks
 
 <p align="center">
 Making progress everyday.
+
 </p>
